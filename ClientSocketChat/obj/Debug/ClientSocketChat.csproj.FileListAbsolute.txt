@@ -1,0 +1,7 @@
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\bin\Debug\ClientSocketChat.exe.config
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\bin\Debug\ClientSocketChat.exe
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\bin\Debug\ClientSocketChat.pdb
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\obj\Debug\ClientSocketChat.csproj.CoreCompileInputs.cache
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\obj\Debug\ClientSocketChat.exe
+c:\users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\obj\Debug\ClientSocketChat.pdb
+C:\Users\iryna.gorova\source\repos\ClientServerSocketChat\ClientSocketChat\obj\Debug\ClientSocketChat.csprojAssemblyReference.cache
